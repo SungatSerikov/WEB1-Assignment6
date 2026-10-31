@@ -1,0 +1,19 @@
+body {
+    max-width: 600px;
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.question {
+    width: 100%;
+    background-color:rgb(131, 131, 218)
+}
+
+.answer {
+    display: none;
+    padding: 20px;
+    background: #f1f5f9;
+}
